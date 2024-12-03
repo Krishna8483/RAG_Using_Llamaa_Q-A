@@ -17,15 +17,15 @@ Workflow
     Generation: The Llama 2 model processes the retrieved context and generates a response.
 
 Architecture
+
+
+
 ![281596293-0be4ab98-43f3-47f2-8520-5833630671fc](https://github.com/user-attachments/assets/8afe6f25-9abe-4b68-90f2-148efbe2b4e6)
+
+
+
+
 Figure: A schematic representation of RAG with a retriever and an LLM
-
-
-
-
-
-
-
 
 
 Technologies Used
