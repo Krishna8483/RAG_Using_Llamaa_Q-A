@@ -21,6 +21,13 @@ Architecture
 Figure: A schematic representation of RAG with a retriever and an LLM
 
 
+
+
+
+
+
+
+
 Technologies Used
 
     Llama 2 (13B, Quantized): OpenAI's large language model for natural language generation.
