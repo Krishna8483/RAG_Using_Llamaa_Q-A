@@ -16,13 +16,18 @@ Workflow
     Retrieval: Based on the user's query, relevant text chunks are retrieved using a similarity search.
     Generation: The Llama 2 model processes the retrieved context and generates a response.
 
+Architecture
+![281596293-0be4ab98-43f3-47f2-8520-5833630671fc](https://github.com/user-attachments/assets/8afe6f25-9abe-4b68-90f2-148efbe2b4e6)
+Figure: A schematic representation of RAG with a retriever and an LLM
+
+
 Technologies Used
 
     Llama 2 (13B, Quantized): OpenAI's large language model for natural language generation.
     LangChain: Framework for building applications with LLMs.
     Vector Database: For storing and retrieving text embeddings (e.g., Pinecone or FAISS).
     PyPDF2 / pdfplumber: For extracting text from PDF files.
-    Python Libraries: transformers, sentence-transformers, langchain, openai.
+    Python Libraries: transformers, sentence-transformers, langchain.
 
 Prerequisites
 
